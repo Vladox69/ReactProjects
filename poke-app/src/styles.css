@@ -1,0 +1,4 @@
+img:hover{
+    animation: pulse;
+    animation-duration: 0.5s;
+}
